@@ -1,0 +1,13 @@
+{
+  "type": "module",
+  "name": "glossary_files",
+  "version": "1.0.0",
+  "description": "",
+  "main": "glossary.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
