@@ -141,4 +141,9 @@ export const wordsDefs = [
     { word: "Server", def: "Software or a machine that provides services to other software or machines" },
     { word: "System Administration", def: "The field in IT that is responsible for maintaining reliable computer systems, in a Multi-user environment" },
     { word: "Test environment", def: "A virtual machine running the same configuration as a production environment, but isn't actually serving any users of the service" },
+    { word: "Domain Name System (DNS)", def: "A global and highly distributed network service that resolves strings of letters, such as a website name, into an IP address" },
+    { word: "Intranet", def: "An internal network inside a company, accessible if you are on a company’s network" },
+    { word: "NTP", def: "Network Time Protocol, keeping clocks synchronized on machines connected to a network" },
+    { word: "Proxy server", def: "An intermediary between a company's network and the Internet, receiving network traffic and relaying that information to the company network" },
+    { word: "Server operating systems", def: "Regular operating systems that are optimized for server functionality" }
 ];
