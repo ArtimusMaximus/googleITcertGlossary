@@ -145,5 +145,19 @@ export const wordsDefs = [
     { word: "Intranet", def: "An internal network inside a company, accessible if you are on a company’s network" },
     { word: "NTP", def: "Network Time Protocol, keeping clocks synchronized on machines connected to a network" },
     { word: "Proxy server", def: "An intermediary between a company's network and the Internet, receiving network traffic and relaying that information to the company network" },
-    { word: "Server operating systems", def: "Regular operating systems that are optimized for server functionality" }
+    { word: "Server operating systems", def: "Regular operating systems that are optimized for server functionality" },
+    { word: "Autoscaling", def: "A system that allows the service to increase or reduce capacity as needed, while the service owner only pays for the cost of the machines that are in use at any given time" },
+    { word: "Databases", def: "Databases allow us to store query, filter, and manage large amounts of data" },
+    { word: "File storage service", def: "Allows to centrally store files and manage access between files and groups" },
+    { word: "HTTPS", def: "Hypertext Transfer Protocol Secure is a secure version of HTTP that ensures the communication your web browser has with the website is secured through encryption" },
+    { word: "HTTP status code", def: "The codes or numbers that indicate some sort of error or info messages that occurred when trying to access a web resource" },
+    { word: "Hybrid cloud", def: "Used to describe situations where companies might run things like their most sensitive proprietary technologies on a private cloud or on premise while entrusting their less sensitive servers to a public cloud" },
+    { word: "Load balancer", def: "Ensures that each VM receives a balanced number of queries" },
+    { word: "Network file system", def: "A protocol that enables files to be shared over a network" },
+    { word: "Platform services", def: "A platform for developers to completely build and deploy software applications, without having to deal with OS maintenance, server hardware, networking or other services that are needed to use the platform tools" },
+    { word: "Private cloud", def: "When a company owns the services and the rest of the cloud infrastructure, whether on-site or in a remote data center" },
+    { word: "Public cloud", def: "The cloud services provided by a third party" },
+    { word: "Regions", def: "A geographical location containing a number of data centers" },
+    { word: "Software services", def: "The services that employees use that allow them to do their daily job functions, such as word processors, Internet browsers, email clients, chat clients, and more" },
+    { word: "Web server", def: "A web server stores and serves content to clients through the Internet" }
 ];
